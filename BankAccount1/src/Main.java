@@ -1,6 +1,6 @@
 class BankAccount {
-    private String owner;   // ім'я власника
-    private double balance; // баланс
+    private String owner;   
+    private double balance;
 
 
     public BankAccount(String owner, double balance) {
